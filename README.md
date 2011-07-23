@@ -7,7 +7,7 @@
 
 
 # About
-A simple bulk Google PageRank checker script written in perl (requires the WWW::Google::PageRank CPAN module).  
+A simple bulk Google PageRank checker script written in Perl (requires the WWW::Google::PageRank CPAN module).  
 
 
 # Live Demo
@@ -74,7 +74,7 @@ To report bugs, please visit http://github.com/aysmedia/prcheck/issues
 
 
 # License
-Bulk Google PageRank Checker - A simple bulk Google PageRank checker script written in perl.  
+Bulk Google PageRank Checker - A simple bulk Google PageRank checker script written in Perl.  
 Copyright (C) 2010 Greg Chetcuti  
 
 Bulk Google PageRank Checker is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  
