@@ -1,6 +1,6 @@
 # Bulk Google PageRank Checker
     Project Home: http://aysmedia.com/code/prcheck/  
-    Code Home: http://github.com/aysmedia/prcheck/  
+    Source Code: http://github.com/aysmedia/prcheck/  
 
 
 # About
