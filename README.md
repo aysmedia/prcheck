@@ -22,7 +22,7 @@ NOTE: Whenever possible, we recommend that you use option #1, the git repository
 
     The Bulk Google PageRank Checker files will now be saved in a local directory called /prcheck/.  
 
-2. Visit the following URL to download the most recent source code archive: https://github.com/aysmedia/prcheck/archives/master  
+2. Visit the following URL to download the most recent source code archive: https://github.com/aysmedia/prcheck/archive/master.zip  
 
 
 # Installation
@@ -56,7 +56,7 @@ You have two options for upgrading the Bulk Google PageRank Checker script.
     
     That's it. Upgrading with git is very easy, which is one of the reasons using git is our recommended method for downloading the Bulk Google PageRank Checker script source code.  
 
-2. Visit the following URL to download the most recent source code archive: https://github.com/aysmedia/prcheck/archives/master  
+2. Visit the following URL to download the most recent source code archive: https://github.com/aysmedia/prcheck/archive/master.zip  
 
    Unpack the new archive overtop of where you installed the previous version.  
 
